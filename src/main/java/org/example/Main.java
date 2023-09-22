@@ -11,6 +11,7 @@ public class Main {
         int b = "sajndjsandjsad"
         int x;
         int y;
+        int sakdk;
 
         public void bad(){
 
