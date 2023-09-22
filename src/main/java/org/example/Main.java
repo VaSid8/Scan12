@@ -9,6 +9,7 @@ public class Main {
         String email = "Test.ru"
         int t = 11;
         int b = "sajndjsandjsad"
+        ваыаы
 
         public void bad(){
 
