@@ -12,6 +12,7 @@ public class Main {
         int x;
         int y;
         int sakdk;
+        int sakdk;
 
         public void bad(){
 
