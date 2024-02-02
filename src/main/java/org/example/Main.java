@@ -10,7 +10,7 @@ public class Main {
         int t = 11;
         int b = "sajndjsandjsad"
         int x;
-        int y;
+        int yty;
         int sakdk;
         int sakdkd;
 
